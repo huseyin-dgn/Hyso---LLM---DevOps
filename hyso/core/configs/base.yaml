@@ -1,0 +1,9 @@
+model:
+  name: "hyso-encdec"
+  dim: 512
+  layers: 8
+
+training:
+  lr: 0.0005
+  batch_size: 32
+  epochs: 10
